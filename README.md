@@ -5,9 +5,9 @@
 Responsive user Registration and Login (SignIn & SignUp) Form functionality using React, NodeJS, ExpressJS and MongoDB and Bootstrap.
 
 
-![Screenshot (219)]
+![Screenshot (7)](https://github.com/Marsk27/Register_LongIN/assets/114282441/8ed39a2e-7ccd-4c3c-93d0-26dc02851843)
 
-![Screenshot (220)]
+![Screenshot (8)](https://github.com/Marsk27/Register_LongIN/assets/114282441/b193f395-c0d2-4cc0-8d82-165bab2e036d)
 
 
 ## ❓Requirements
